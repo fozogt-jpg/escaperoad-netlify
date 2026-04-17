@@ -7,7 +7,7 @@
  */
 
 const PASSLOCK_CONFIG = {
-  password: "lock!",   // ← Your password here
+  password: "astro!",   // ← Your password here
   sessionKey: "passlock_auth",    // Session storage key (don't change unless needed)
   hint: "Ask Jayden.O",                       // Optional hint shown under input, e.g. "Hint: company name"
   title: "Either the password has changed or you don't belong here.",        // Title shown on the lock screen
